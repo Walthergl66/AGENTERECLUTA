@@ -1,0 +1,16 @@
+# Framework Web
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+
+# Validación de datos
+pydantic==2.10.4
+pydantic-settings==2.7.0
+
+# Agente IA y LLM
+agno==2.3.13
+
+# Variables de entorno
+python-dotenv==1.0.1
+
+# Utilidades
+typing-extensions==4.12.2
